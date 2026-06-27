@@ -1,0 +1,41 @@
+.paragraph_center_36px  {
+  color: rgb(0, 0, 0);
+  font-family: 'Courier New', Courier, monospace;
+  text-align: center;
+  font-style: bold;
+  font-size: 36px;
+}
+.paragraph_left_18px {
+  color: rgb(0, 0, 0);
+  font-family: 'Courier New', Courier, monospace;
+  text-align: left;
+  font-style: bold;
+  font-size: 18px;
+}
+.paragraph_center_18px {
+  color: rgb(0, 0, 0);
+  font-family: 'Courier New', Courier, monospace;
+  text-align: center;
+  font-style: normal;
+  font-size: 18px;
+}
+.bg{
+  background-color: rgb(222,255, 222);
+}
+.paragraph_center_24px {
+  color: rgb(0, 0, 0);
+  font-family: 'Courier New', Courier, monospace;
+  text-align: center;
+  font-style: normal;
+  font-size: 24px;
+}
+
+.textbox{
+  border: solid rgb(71, 255, 126);
+  width: 480px;
+  margin-left: auto;
+  margin-right: auto;
+  margin-bottom: 12px;
+  padding: 2rem;
+  
+}
